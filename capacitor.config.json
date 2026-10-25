@@ -1,0 +1,6 @@
+{
+  "appId": "com.surpri3efx.app",
+  "appName": "Surpri3eFX",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
